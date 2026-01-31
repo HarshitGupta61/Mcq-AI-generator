@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+mcqs.pdf
+parser.py
+mcq.ipynb
+
+.env
+.ipynb_checkpoints/
+experiment/*.ipynb
