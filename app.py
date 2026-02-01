@@ -41,7 +41,7 @@ else:
         raw_text = extract_text_from_pdf(pdf)
         text = clean_pdf_text(raw_text)
 
-num_questions = st.slider("Number of MCQs", 5, 20, 10)
+num_questions = st.slider("Number of MCQs", 5, 10, 10)
 
 # ---------------- GENERATE ----------------
 if st.button("Generate MCQs"):
