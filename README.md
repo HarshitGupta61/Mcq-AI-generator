@@ -1,6 +1,6 @@
-# AI MCQ Generator 📘
+# AI MCQ Generator 🎯
 
-An AI-powered MCQ Generator built using Streamlit and Groq LLMs.
+A Streamlit app that generates MCQs using Groq LLM (Llama 3).
 
 ## Features
 - Generate MCQs from text or PDF
@@ -10,23 +10,18 @@ An AI-powered MCQ Generator built using Streamlit and Groq LLMs.
 - Token-safe LLM handling
 - Clean UI with Streamlit
 
+## Live App
+👉 https://mcq-ai-generator-npqcvpknsvt3r47x2b5gby.streamlit.app/
+
 ## Tech Stack
 - Python
 - Streamlit
-- Groq LLM (LLaMA 3.1)
-- ReportLab
-- PyPDF2
+- Groq API (Llama 3)
 
 ## Run Locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-
-
-
-
-
 
 
 
