@@ -1,7 +1,4 @@
-openai
-langchain
 streamlit
-python-dotenv
+groq
 PyPDF2
 reportlab
-groq
